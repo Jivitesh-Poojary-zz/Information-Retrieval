@@ -1,0 +1,28 @@
+Query - Data Mining
+ 
+Author                                   Vertex          Score
+Christos  Faloutsos                      16297           0.07570204718818302
+Hans-Peter  Kriegel                      2430            0.07056621909897819
+Johannes  Gehrke                         4836            0.04555756081027082
+Dimitrios  Gunopulos                     69331           0.040657853565991935
+Spiros  Papadimitriou                    16265           0.03460782942709759
+Jimeng  Sun                              19124           0.03303803452858924
+Aristides  Gionis                        16263           0.023357341589741884
+Rakesh  Agrawal                          23255           0.02044086514786711
+Heikki  Mannila                          16317           0.01583349479672022
+Michail  Vlachos                         93210           0.015364674944128458
+
+-------------------------------------------------------------------------
+Query - Information Retrieval
+ 
+Author                                   Vertex          Score
+Christos  Faloutsos                      16297           0.07769769715408918
+Hans-Peter  Kriegel                      2430            0.03717279844427688
+Wei-Ying  Ma                             3695            0.032139150423419076
+Kai  Yu                                  2427            0.028779573007596652
+Raghu  Ramakrishnan                      31637           0.028024817516300298
+Divesh  Srivastava                       4151            0.02729967978207274
+Dimitrios  Gunopulos                     69331           0.026001632866218618
+Bruce  Croft                             65415           0.02531363637815249
+Rakesh  Agrawal                          23255           0.024657496873242833
+Shipeng  Yu                              29119           0.024493531366733382

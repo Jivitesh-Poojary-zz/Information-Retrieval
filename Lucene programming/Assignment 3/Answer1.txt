@@ -1,0 +1,11 @@
+Author                                   VertexId        Pagerank
+Pat  Hanrahan                            5284            0.009881679300368658
+Jason  Cong                              875             0.009788345922213221
+D. F. Wong                               654             0.008488962092941062
+Alberto L. Sangiovanni-Vincentelli       595             0.007775054089289194
+Christos  Faloutsos                      16297           0.007198246575741894
+Robert K. Brayton                        764             0.006781568099065885
+Rajive  Bagrodia                         23770           0.006006480954352208
+Josep  Torrellas                         34659           0.005931266219810963
+Nikil D. Dutt                            28421           0.0058930082641875615
+Raghu  Ramakrishnan                      31637           0.00571615768545211
